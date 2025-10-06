@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167622097704496982/c31ef4866d6d43b0b8fc09be5ca56032/artifacts
+deleted_time: 1759367464830
+end_time: 1759367448120
+entry_point_name: ''
+experiment_id: '167622097704496982'
+lifecycle_stage: deleted
+run_id: c31ef4866d6d43b0b8fc09be5ca56032
+run_name: stylish-eel-44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759367432868
+status: 3
+tags: []
+user_id: Luan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167622097704496982/fe33b72896dc4a4280df99fc90f7a13f/artifacts
+deleted_time: 1759455474388
+end_time: 1759455388789
+entry_point_name: ''
+experiment_id: '167622097704496982'
+lifecycle_stage: deleted
+run_id: fe33b72896dc4a4280df99fc90f7a13f
+run_name: nebulous-grouse-912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759455324327
+status: 3
+tags: []
+user_id: Luan

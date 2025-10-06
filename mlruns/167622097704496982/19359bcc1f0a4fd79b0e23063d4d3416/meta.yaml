@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167622097704496982/19359bcc1f0a4fd79b0e23063d4d3416/artifacts
+deleted_time: 1759454817516
+end_time: 1759454698980
+entry_point_name: ''
+experiment_id: '167622097704496982'
+lifecycle_stage: deleted
+run_id: 19359bcc1f0a4fd79b0e23063d4d3416
+run_name: upset-crab-592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759454630580
+status: 3
+tags: []
+user_id: Luan

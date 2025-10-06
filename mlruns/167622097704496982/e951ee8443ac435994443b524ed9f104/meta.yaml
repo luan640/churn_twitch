@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167622097704496982/e951ee8443ac435994443b524ed9f104/artifacts
+deleted_time: 1759455307822
+end_time: 1759454895088
+entry_point_name: ''
+experiment_id: '167622097704496982'
+lifecycle_stage: deleted
+run_id: e951ee8443ac435994443b524ed9f104
+run_name: dapper-roo-180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759454830591
+status: 3
+tags: []
+user_id: Luan

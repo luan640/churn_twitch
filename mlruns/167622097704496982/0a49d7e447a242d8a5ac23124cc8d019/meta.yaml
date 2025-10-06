@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167622097704496982/0a49d7e447a242d8a5ac23124cc8d019/artifacts
+deleted_time: 1759455307804
+end_time: 1759455199588
+entry_point_name: ''
+experiment_id: '167622097704496982'
+lifecycle_stage: deleted
+run_id: 0a49d7e447a242d8a5ac23124cc8d019
+run_name: adorable-fawn-251
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759455131243
+status: 3
+tags: []
+user_id: Luan

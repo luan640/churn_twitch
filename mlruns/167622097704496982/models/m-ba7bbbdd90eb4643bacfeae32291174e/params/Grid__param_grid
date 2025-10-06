@@ -1,0 +1,1 @@
+{'min_samples_leaf': [15, 20, 25], 'n_estimators': [100, 200], 'criterion': ['gini', 'entropylog_loss']}

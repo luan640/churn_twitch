@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167622097704496982/49f0470650c54a04a95a66777b81bc9c/artifacts
+deleted_time: 1759367464836
+end_time: 1759367412000
+entry_point_name: ''
+experiment_id: '167622097704496982'
+lifecycle_stage: deleted
+run_id: 49f0470650c54a04a95a66777b81bc9c
+run_name: calm-asp-596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759367396579
+status: 3
+tags: []
+user_id: Luan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167622097704496982/076b444c4b744cc0b428e25473d3b3eb/artifacts
+deleted_time: 1759455474386
+end_time: 1759455318045
+entry_point_name: ''
+experiment_id: '167622097704496982'
+lifecycle_stage: deleted
+run_id: 076b444c4b744cc0b428e25473d3b3eb
+run_name: bustling-moose-245
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759455314714
+status: 3
+tags: []
+user_id: Luan

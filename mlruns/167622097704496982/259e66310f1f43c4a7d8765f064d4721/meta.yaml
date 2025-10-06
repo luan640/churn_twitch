@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167622097704496982/259e66310f1f43c4a7d8765f064d4721/artifacts
+deleted_time: 1759454817516
+end_time: 1759454698980
+entry_point_name: ''
+experiment_id: '167622097704496982'
+lifecycle_stage: deleted
+run_id: 259e66310f1f43c4a7d8765f064d4721
+run_name: gaudy-deer-429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759454630580
+status: 3
+tags: []
+user_id: Luan

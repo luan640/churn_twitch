@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167622097704496982/d4a3bf8df4c7455ba9b787cacb0a701f/artifacts
+deleted_time: 1759367464830
+end_time: 1759367051953
+entry_point_name: ''
+experiment_id: '167622097704496982'
+lifecycle_stage: deleted
+run_id: d4a3bf8df4c7455ba9b787cacb0a701f
+run_name: DecisionTreeClassifier(min_samples_leaf=20, random_state=42)
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759367050449
+status: 3
+tags: []
+user_id: Luan

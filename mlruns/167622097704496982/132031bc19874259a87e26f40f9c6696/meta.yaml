@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167622097704496982/132031bc19874259a87e26f40f9c6696/artifacts
+deleted_time: 1759455307814
+end_time: 1759454895088
+entry_point_name: ''
+experiment_id: '167622097704496982'
+lifecycle_stage: deleted
+run_id: 132031bc19874259a87e26f40f9c6696
+run_name: marvelous-robin-489
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759454830591
+status: 3
+tags: []
+user_id: Luan

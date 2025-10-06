@@ -1,0 +1,54 @@
+SEMMA
+
+	S -> SAMPLE
+		-> train / test split
+		-> out of time
+		-> balanceamento
+		-> filtros
+
+
+
+ABT -> ANALYTICAL BASE TABLE
+
+bibliotecas
+
+
+### Como você aborda a construção de um modelo? ###
+
+Bem, qual é o objetivo do modelo? Quem usará os resultados e para quê?
+Eu sempre gosto de ter uma conversa - ou melhor ainda, um breve resumo das partes interessadas - para
+que possamos ser claros sobre os objetivos e expectativas para a construção de um modelo, caso contrário,
+trabalhar no modelo errado pode ser uma perda de tempo. O modelo é preditivo ou inferencial? Identifique os dados
+que devem ser incluídos e certifique-se do acesso aos dados e se temos garantias razoáveis ​​de qualidade dos dados - caso contrário,
+isso também precisará fazer parte do projeto. É um relatório único ou será colocado em produção? E quais são os critérios de sucesso - como saberemos
+se o modelo está fazendo seu trabalho? Qual é o prazo para precisar dele?
+
+Depois de tudo isso, farei um plano, geralmente começando com um modelo simples usando apenas dados prontamente disponíveis.
+Geralmente, um modelo linear ou GLM para inferência, ou random forest ou xgboost para previsão.
+Muitas vezes, um modelo simples realmente funcionará muito bem e, se atingir os critérios de sucesso já definidos,
+posso parar por aí (ou colocar em produção, ou construir em um relatório, ou o que quer que sejam as próximas etapas).
+Caso contrário, pegarei o que foi aprendido com o modelo simples e iterarei,
+talvez adicionando mais recursos, tentando uma estrutura de modelagem diferente, etc., dependendo do que foi aprendido na primeira iteração.
+
+### Quais métricas você usaria para avaliar o sucesso ###
+
+estou falando novamente sobre o envolvimento das partes interessadas,
+sobre a definição do(s) problema(s), sobre a identificação de potencialmente múltiplos critérios de sucesso e talvez sobre a
+consideração do tempo e dos recursos gastos e do custo de oportunidade também.
+
+### Como você lidaria com dados ausentes? ### 
+
+este eu acho que é realmente o mais técnico.
+Uma boa resposta tem que falar sobre investigar por que os dados estão ausentes.
+Quero ter certeza de que o candidato está familiarizado com as ideias de MAR vs MCAR vs MNAR (mesmo que não conheçam esses termos) e
+pensará criticamente sobre imputação, omissão, tratando "ausente" como uma categoria separada, dependendo da situação e das necessidades.
+Feliz se eles também trouxerem análise de sensibilidade.
+
+### Como você decide entre diferentes algoritmos? ### 
+
+Estamos falando, por exemplo, de diferentes implementações de random forest,
+ou algum script de processamento de dados personalizado, ou o quê? A primeira pergunta é,
+isso importa? Se os resultados forem bastante equivalentes e o tempo de computação for pequeno,
+o tempo do programador é o que mais importa e você vai com o que for mais fácil de implementar.
+Caso contrário, você precisa equilibrar os critérios: eficácia, tempo de computação, tempo de implementação, ônus de manutenção.
+Você pode fazer alguma pesquisa, se necessário, e fazer uma suposição, ou, se isso importar muito, configurar casos de teste que reflitam seu problema e testá-lo.

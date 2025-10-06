@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167622097704496982/b9af9d6ac93e4145b063f19696b32f1e/artifacts
+deleted_time: 1759455307809
+end_time: 1759455127700
+entry_point_name: ''
+experiment_id: '167622097704496982'
+lifecycle_stage: deleted
+run_id: b9af9d6ac93e4145b063f19696b32f1e
+run_name: bedecked-panda-962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759455124215
+status: 3
+tags: []
+user_id: Luan

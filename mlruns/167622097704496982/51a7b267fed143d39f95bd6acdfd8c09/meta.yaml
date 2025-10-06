@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167622097704496982/51a7b267fed143d39f95bd6acdfd8c09/artifacts
+deleted_time: 1759455307810
+end_time: 1759455199588
+entry_point_name: ''
+experiment_id: '167622097704496982'
+lifecycle_stage: deleted
+run_id: 51a7b267fed143d39f95bd6acdfd8c09
+run_name: dashing-squirrel-814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759455131243
+status: 3
+tags: []
+user_id: Luan

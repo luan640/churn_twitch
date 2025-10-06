@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167622097704496982/6f5b53797fe14eb2b121a80992888904/artifacts
+deleted_time: 1759455474387
+end_time: 1759455388789
+entry_point_name: ''
+experiment_id: '167622097704496982'
+lifecycle_stage: deleted
+run_id: 6f5b53797fe14eb2b121a80992888904
+run_name: adorable-goose-700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759455324327
+status: 3
+tags: []
+user_id: Luan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167622097704496982/ae0b4430fab54df6abbf204020dbea1e/artifacts
+deleted_time: 1759455307822
+end_time: 1759454895088
+entry_point_name: ''
+experiment_id: '167622097704496982'
+lifecycle_stage: deleted
+run_id: ae0b4430fab54df6abbf204020dbea1e
+run_name: funny-turtle-956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759454830591
+status: 3
+tags: []
+user_id: Luan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167622097704496982/19192c33d20544359399b1cad4f68ec6/artifacts
+deleted_time: 1759367464828
+end_time: 1759366961989
+entry_point_name: ''
+experiment_id: '167622097704496982'
+lifecycle_stage: deleted
+run_id: 19192c33d20544359399b1cad4f68ec6
+run_name: AdaBoostClassifier(learning_rate=0.99, n_estimators=500, random_state=42)
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759366958860
+status: 3
+tags: []
+user_id: Luan

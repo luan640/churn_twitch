@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167622097704496982/54199bf9a2094e01a87782557c74346d/artifacts
+deleted_time: 1759367464829
+end_time: 1759367073250
+entry_point_name: ''
+experiment_id: '167622097704496982'
+lifecycle_stage: deleted
+run_id: 54199bf9a2094e01a87782557c74346d
+run_name: BernoulliNB()
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759367071717
+status: 3
+tags: []
+user_id: Luan

@@ -1,0 +1,1 @@
+RandomForestClassifier(min_samples_leaf=20, n_estimators=500, random_state=42)

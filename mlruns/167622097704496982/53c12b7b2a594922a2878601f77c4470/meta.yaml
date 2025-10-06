@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/167622097704496982/53c12b7b2a594922a2878601f77c4470/artifacts
+deleted_time: 1759454817515
+end_time: 1759454812574
+entry_point_name: ''
+experiment_id: '167622097704496982'
+lifecycle_stage: deleted
+run_id: 53c12b7b2a594922a2878601f77c4470
+run_name: rebellious-robin-343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759454809286
+status: 3
+tags: []
+user_id: Luan

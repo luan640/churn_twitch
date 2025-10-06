@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/167622097704496982/5aa0683c286c4137a886e09724d5f515/artifacts
+end_time: 1759455912407
+entry_point_name: ''
+experiment_id: '167622097704496982'
+lifecycle_stage: active
+run_id: 5aa0683c286c4137a886e09724d5f515
+run_name: debonair-deer-644
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759455908801
+status: 3
+tags: []
+user_id: Luan
